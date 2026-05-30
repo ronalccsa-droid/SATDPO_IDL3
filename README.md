@@ -8,7 +8,7 @@
 [![Architecture](https://img.shields.io/badge/Arquitectura-Medallion-F59E0B?style=for-the-badge)](#arquitectura)
 [![Status](https://img.shields.io/badge/Estado-Activo-22C55E?style=for-the-badge)](#)
 
-> **Proyecto PP2B · Big Data Aplicada · Instituto Continental**
+> **Proyecto PP2B · Instituto Continental**
 
 Pipeline de datos orientado al análisis del desempeño del personal operativo. Organiza, transforma y consolida información para detectar de manera temprana problemas de rendimiento, clima laboral, adherencia, calidad, capacitación e incidencias.
 
