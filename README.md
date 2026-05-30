@@ -460,17 +460,6 @@ Institución:
 
 **Instituto Continental**
 
----
-
-# 👥 Autoras
-
-- **DAMIANI KAEMENA, STEPHANI**
-- **CARDENAS ACARO, CLAUDIA MILAGROS**
-
-Docente:
-- **SERGIO ORIZANO SALVADOR**
-
----
 
 # 🔗 Repositorio
 
@@ -478,4 +467,5 @@ GitHub del proyecto:
 
 ```text
 https://github.com/steph-d989/PP2B_SATDPO.git
+https://github.com/ronalccsa-droid/SATDPO_IDL3.git
 ```
