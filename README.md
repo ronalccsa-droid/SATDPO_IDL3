@@ -226,6 +226,6 @@ CSV Sources
 
 <div align="center">
 
-**Instituto Continental · Big Data Aplicada · 2025**
+**Instituto Continental · 2026**
 
 </div>
