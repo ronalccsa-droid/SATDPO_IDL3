@@ -1,0 +1,4 @@
+﻿version,modelo,accuracy,precision_weighted,recall_weighted,f1_weighted
+Modelo operativo actualizado,Random Forest,0.762962962962963,0.7676738995805145,0.762962962962963,0.7648451633184458
+Modelo operativo actualizado,Árbol de decisión,0.6765432098765433,0.78505291005291,0.6765432098765433,0.6811990288084967
+Modelo operativo actualizado,Regresión logística,0.6074074074074074,0.6891094856612098,0.6074074074074074,0.6154846401071721
